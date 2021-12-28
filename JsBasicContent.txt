@@ -1,0 +1,19 @@
+reading on microverse full stack web development
+mirconaut= microstudent
+https://www.notion.so/microverse/Microverse-Practice-Sessions-d2dd347d2396489a9f0739aa16358216
+
+
+
+
+
+*declaration ways: let,const,var
+
+*strings we use " " (&) with template literals we use ``  ex: let son=`i'am ${name}`;
+
+*new lines
+  >console.log('education\n\IT\n\Business');
+  >using ` ` ex:console.log('education
+                              IT
+                              Business');
+  
+
